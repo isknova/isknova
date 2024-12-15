@@ -1,6 +1,7 @@
 ## yo wassup, Im Nova 
 
 <img src="https://github.com/isknova/isknova/blob/main/71837398_nDMtGr1y3K9LEEO.jpg" style="width: 20em; max-width: 100%;">
+(this is me btw)
 
 ## Info
 i make code stuff on here (not as much tho)
