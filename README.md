@@ -4,7 +4,7 @@
 
 i make stuff (lol)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isknovatheme=dark)](https://github.com/anuraghazra/github-readme-stats) <a href="https://discord.com/users/1151667489873350706"><img src="https://lanyard.cnrad.dev/api/1151667489873350706" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isknovaicons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <a href="https://discord.com/users/1151667489873350706"><img src="https://lanyard.cnrad.dev/api/1151667489873350706" /></a>
 
 <!--
 **isknova/isknova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
