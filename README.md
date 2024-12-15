@@ -13,3 +13,4 @@ i make code stuff on here (not as much tho)
 ## Swagger stuff
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isknova&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://discord.com/users/1151667489873350706"><img style="border: 4px solid #000;" src="https://lanyard.cnrad.dev/api/1151667489873350706" /></a>
+<iframe id="embedplayer" src="http://www.bitview.net/embed?v=cr3AjCFtn5Z&bg=red&bt=white" width="320" height="265" allowfullscreen scrolling="off" frameborder="0"></iframe>
